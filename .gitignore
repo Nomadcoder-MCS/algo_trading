@@ -16,3 +16,6 @@ __pycache__/
 # Environment variables / Local configuration
 .env
 .env.secret
+
+# Research Output
+*.csv
